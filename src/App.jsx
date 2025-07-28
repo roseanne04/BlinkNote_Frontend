@@ -115,7 +115,7 @@ function App() {
 
       <div className="right-section">
         <video className="robot-video" autoPlay loop muted playsInline preload="auto">
-          <source src="public/Recording 2025-07-28 010607.mp4" type="video/mp4" />
+          <source src="public/robot-animation.mp4.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
